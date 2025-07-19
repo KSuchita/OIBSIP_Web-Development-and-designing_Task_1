@@ -1,1 +1,1 @@
-# OIBSIP_Web-Development-and-designing_Task_1
+A responsive and visually appealing landing page using HTML and CSS.
